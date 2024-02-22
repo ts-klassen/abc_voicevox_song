@@ -1,7 +1,7 @@
 # WEB版VOICEVOX歌唱合成サンプル
 
 WEB版VOICEVOX歌唱合成で用いるABC記法の楽譜サンプル
-https://www.voicevox.su-shiki.com
+[https://www.voicevox.su-shiki.com](https://www.voicevox.su-shiki.com/abc_sample)
 
 ## 楽曲選定基準
 音楽、歌詞ともにパブリックドメイン、またはこれに準ずるライセンスであること。
