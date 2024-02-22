@@ -1,6 +1,6 @@
 # WEB版VOICEVOX歌唱合成サンプル
 
-WEB版VOICEVOX歌唱合成で用いるABCk記法の楽譜サンプル
+WEB版VOICEVOX歌唱合成で用いるABC記法の楽譜サンプル
 https://www.voicevox.su-shiki.com
 
 ## 楽曲選定基準
